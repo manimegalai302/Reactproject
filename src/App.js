@@ -1,7 +1,5 @@
 import AddTask from './addtask';
 import './App.css';
-
-
 function App() {
   return (
     <div className="App">
